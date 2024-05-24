@@ -8,7 +8,6 @@ This repository contains an SMS spam classifier built using a Naive Bayes algori
 - [Installation](#installation)
 - [Usage](#usage)
 
-- [License](#license)
 
 ## Introduction
 This project aims to classify SMS messages as spam or ham (not spam) using a Naive Bayes classifier. The application is built with Streamlit, allowing users to interact with the model through a web interface.
@@ -28,10 +27,6 @@ To run this project, you need to have Python installed on your machine. Follow t
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install the required packages:**
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 To run the Streamlit app, execute the following command in your terminal:
